@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Senpaigmx/Senpaigmx/refs/heads/main/background.gif" width="900"/>
+</p>
 
 <h1 align="center">👋 Senpai</h1>
 
@@ -13,7 +15,7 @@
 I’m a developer focused on **scripting** and **software development**.  
 Most of my work revolves around creating scripts, tools, and small applications that automate tasks.
 
-I primarily work with **🐍 Python** and **🌙 Lua**, and I have experience building scripts and systems for **🎮 Roblox**.  
+I primarily work with **Python** and **Lua**, and I have experience building scripts and systems for **Roblox**.  
 In addition to that, I enjoy experimenting with different ideas and building various **💻 utilities for desktop environments**.
 
 Occasionally I also work on **🌐 web projects**, exploring different technologies and approaches to building simple websites and services.
