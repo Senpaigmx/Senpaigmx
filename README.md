@@ -1,16 +1,41 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.pinimg.com/originals/64/03/c9/6403c98894c630d84160832cd2187a52.gif" width="100%">
+</p>
 
-<!--
-**Senpaigmx/Senpaigmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Senpai</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+🐍 Python • 🌙 Lua • 🎮 Roblox Development • 🛠 Software Tools
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+I’m a developer focused on **scripting** and **software development**.  
+Most of my work revolves around creating scripts, tools, and small applications that automate tasks.
+
+I primarily work with **🐍 Python** and **🌙 Lua**, and I have experience building scripts and systems for **🎮 Roblox**.  
+In addition to that, I enjoy experimenting with different ideas and building various **💻 utilities for desktop environments**.
+
+Occasionally I also work on **🌐 web projects**, exploring different technologies and approaches to building simple websites and services.
+
+Programming for me is not only a **skill**, but also a **long-term interest** where I constantly explore new ideas and improve my technical abilities.
+
+---
+
+### 🧰 Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+<img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 📬 Contact
+
+💬 **Discord:** @Senpaigmx  
+📨 **Telegram:** @Senpaigm
