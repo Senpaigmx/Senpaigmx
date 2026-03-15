@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/64/03/c9/6403c98894c630d84160832cd2187a52.gif" width="100%">
+<img src="https://i.pinimg.com/originals/64/03/c9/6403c98894c630d84160832cd2187a52.gif" width="900"/>
 </p>
 
 <h1 align="center">👋 Senpai</h1>
