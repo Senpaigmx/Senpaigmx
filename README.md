@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Senpaigmx/Senpaigmx/refs/heads/main/background.gif" width="900"/>
+<img src="https://raw.githubusercontent.com/Senpaigmx/Senpaigmx/refs/heads/main/background.gif" width="600"/>
 </p>
 
 <h1 align="center">👋 Senpai</h1>
